@@ -1,0 +1,10 @@
+{
+  "title": "Stavební práce Kováč",
+  "login": {
+    "title": "Přihlášení",
+    "email": "Email",
+    "password": "Heslo",
+    "submit": "Přihlásit se"
+  },
+  "logout": "Odhlásit se"
+}
