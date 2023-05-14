@@ -2,6 +2,12 @@
 
 > Don't forget to add 'src/config/firebase.js' file with configuration
 
+## Local development
+
+```shell
+firebase emulators:start --import=exported-dev-data --export-on-exit=exported-dev-data
+```
+
 ## Project Setup
 
 ```sh
